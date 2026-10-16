@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="kr.ac.photoblog.viewer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:3:5-66
+11-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:3:22-64
+12
+13    <application
+13-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:5-8:19
+14        android:allowBackup="true"
+14-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:18-44
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:label="포토 블로그"
+17-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:45-67
+18        android:testOnly="true"
+19        android:theme="@android:style/Theme.Material.Light.NoActionBar"
+19-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:68-131
+20        android:usesCleartextTraffic="true" >
+20-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:132-167
+21        <activity
+21-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:5:9-7:20
+22            android:name="kr.ac.photoblog.viewer.MainActivity"
+22-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:5:19-47
+23            android:exported="true" >
+23-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:5:48-71
+24            <intent-filter>
+24-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:13-154
+25                <action android:name="android.intent.action.MAIN" />
+25-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:28-79
+25-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:36-77
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:79-138
+27-->F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:89-136
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

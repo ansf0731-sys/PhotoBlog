@@ -1,0 +1,7 @@
+kr.ac.photoblog.viewer.app-pngs-0 F:\SEC\PhotoViewer\app\build\generated\res\pngs\debug
+kr.ac.photoblog.viewer.app-resValues-1 F:\SEC\PhotoViewer\app\build\generated\res\resValues\debug
+kr.ac.photoblog.viewer.app-packageDebugResources-2 F:\SEC\PhotoViewer\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+kr.ac.photoblog.viewer.app-packageDebugResources-3 F:\SEC\PhotoViewer\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+kr.ac.photoblog.viewer.app-debug-4 F:\SEC\PhotoViewer\app\build\intermediates\merged_res\debug\mergeDebugResources
+kr.ac.photoblog.viewer.app-debug-5 F:\SEC\PhotoViewer\app\src\debug\res
+kr.ac.photoblog.viewer.app-main-6 F:\SEC\PhotoViewer\app\src\main\res

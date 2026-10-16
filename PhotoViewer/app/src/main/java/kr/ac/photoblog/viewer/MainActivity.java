@@ -40,9 +40,9 @@ import java.util.concurrent.Executors;
 
 public class MainActivity extends Activity {
     // 에뮬레이터에서는 10.0.2.2가 개발 PC를 가리킵니다.
-    private static final String SERVER_URL = "http://10.0.2.2:8000";
+    private static final String SERVER_URL = "https://ansf.pythonanywhere.com";
     // seed_demo 실행 결과의 실제 토큰으로 교체하세요.
-    private static final String API_TOKEN = "5baed2207c8494036aaceca1a981bf0e2a887148";
+    private static final String API_TOKEN = "86e1fbb239e5322f7d9e5800dea40ea91beac3fc";
     private static final int IMAGE_PICK_CODE = 101;
     private final ExecutorService executor = Executors.newSingleThreadExecutor();
     private LinearLayout 목록;

@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:3:22-64
+application
+ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:5-8:19
+INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:5-8:19
+	android:extractNativeLibs
+		INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:45-67
+	android:allowBackup
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:18-44
+	android:theme
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:68-131
+	android:usesCleartextTraffic
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:4:132-167
+activity#kr.ac.photoblog.viewer.MainActivity
+ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:5:9-7:20
+	android:exported
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:5:48-71
+	android:name
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:5:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:13-154
+action#android.intent.action.MAIN
+ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:28-79
+	android:name
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:36-77
+category#android.intent.category.LAUNCHER
+ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:79-138
+	android:name
+		ADDED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml:6:89-136
+uses-sdk
+INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml
+INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\SEC\PhotoViewer\app\src\main\AndroidManifest.xml

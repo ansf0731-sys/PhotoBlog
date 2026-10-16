@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.sqlite3
+media/
+
+# Django
+staticfiles/
+htmlcov/
+.coverage
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+
+# IDE
+.idea/
+
+# Local secrets and generated files
+*.log
+.env.*~$*.docx
